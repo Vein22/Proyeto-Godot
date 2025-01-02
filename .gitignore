@@ -1,0 +1,5 @@
+.import/
+.godot/
+*.tmp
+*.blend1
+*.exe
