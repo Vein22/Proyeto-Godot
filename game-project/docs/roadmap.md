@@ -6,4 +6,4 @@ Tecnologías
 5)	Mecánica del Juego: Exploración e interacción con entorno o elementos del mapa.
 6)	IA Básica: Triggers para animaciones o sonidos al explorar, etc.
 7)	Acertijos: Scripts independientes que pueden interactuar con el entorno.
-8)	Distribución: Herramienta Inno Setup.
+8)	Distribución: Herramienta Inno Setup. 
