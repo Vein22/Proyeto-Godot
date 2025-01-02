@@ -28,4 +28,4 @@ game-project/
 │   └── setup/            # Scripts para distribución con Inno Setup
 ├── LICENSE               # Licencia del proyecto (si es necesario)
 ├── README.md             # Información básica del proyecto
-└── .gitignore            # Archivos o carpetas que Git debe ignorar```
+└── .gitignore            # Archivos o carpetas que Git debe ignorar
