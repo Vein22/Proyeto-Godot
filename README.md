@@ -1,6 +1,6 @@
 # Proyeto-Godot
 
-game-project/
+```game-project/
 ├── assets/               # Recursos del juego (modelos, texturas, música, sonidos)
 │   ├── models/           # Modelos 3D de Blender
 │   ├── textures/         # Texturas (pendiente de herramienta)
@@ -27,4 +27,4 @@ game-project/
 │   └── setup/            # Scripts para distribución con Inno Setup
 ├── LICENSE               # Licencia del proyecto (si es necesario)
 ├── README.md             # Información básica del proyecto
-└── .gitignore            # Archivos o carpetas que Git debe ignorar
+└── .gitignore            # Archivos o carpetas que Git debe ignorar```
