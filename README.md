@@ -1,6 +1,7 @@
+```
 # Proyeto-Godot
 
-```game-project/
+game-project/
 ├── assets/               # Recursos del juego (modelos, texturas, música, sonidos)
 │   ├── models/           # Modelos 3D de Blender
 │   ├── textures/         # Texturas (pendiente de herramienta)
